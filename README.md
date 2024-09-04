@@ -2,7 +2,7 @@
 
 ## João
 
-![imagem do pikachu](./screenshot/Captura%20de%20Tela%202024-09-04%20às%2009.04.16.png)
+![](./screenshot/Captura%20de%20Tela%202024-09-04%20às%2009.04.16.png)
 
 ---
 
