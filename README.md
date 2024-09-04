@@ -23,4 +23,4 @@ adquirido  sobre as linguagens de marcação, HTML, CSS e Markdown, no curso Té
 ---
 
 ### Autor
-- [João Victor Campos](https://github.com/campoos)
+- [João Victor Campos](https://github.com/campoos)# pokemon-2024
